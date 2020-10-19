@@ -8,7 +8,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=britojcs&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=britojcs&hide=ruby&theme=tokyonight">
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=britojcs&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britojcs&layout=compact&theme=tokyonight)](https://github.com/britojcs)
 </p>
 </details>
