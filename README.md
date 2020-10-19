@@ -4,11 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britojcs/)](https://www.linkedin.com/in/britojcs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britojcs@gmail.com)](mailto:britojcs@gmail.com)
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=britojcs&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britojcs&layout=compact&theme=tokyonight)](https://github.com/britojcs)
-</p>
-</details>
+
+## &#x1f4c8; GitHub Stats
+
+![Brito's Github stats](https://github-readme-stats.vercel.app/api?username=britojcs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britojcs&layout=compact&theme=tokyonight)](https://github.com/britojcs)
