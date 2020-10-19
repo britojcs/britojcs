@@ -1,6 +1,8 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Brito</B></h3>
 <hr>
 
+Além de bater no teclado, gosto de participar de todos os processos envolvidos no desenvolvimento de software, desde a idéia e modelagem, até o desenvolvimento e entrega.
+
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=britojcs.visitor-badge)](https://github.com/britojcs)
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/britojcs)](https://gist.github.com/britojcs)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/britojcs)](https://github.com/britojcs)
