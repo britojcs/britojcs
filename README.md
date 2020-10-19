@@ -1,6 +1,7 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Brito</B></h3>
 <hr>
 
+
 Além de bater no teclado, gosto de participar de todos os processos envolvidos no desenvolvimento de software, desde a idéia e modelagem, até o desenvolvimento e entrega.
 
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=britojcs.visitor-badge)](https://github.com/britojcs)
@@ -9,12 +10,16 @@ Além de bater no teclado, gosto de participar de todos os processos envolvidos 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britojcs/)](https://www.linkedin.com/in/britojcs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britojcs@gmail.com)](mailto:britojcs@gmail.com)
 
+
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white&color=tokyonight)
+
+
 
 ## &#x1f4c8; GitHub Stats
 
