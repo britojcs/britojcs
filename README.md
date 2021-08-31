@@ -1,31 +1,27 @@
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Brito</B></h3>
-<hr>
+## Opa! Aqui é o José Carlos Brito. 
+#### Software Developer
+ <div>
+  <a href="https://github.com/britojcs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=britojcs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britojcs&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Brito-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Brito-spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="Brito-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+  <img align="center" alt="Brito-vsCode" height="30" width="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+  <img align="center" alt="Brito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Brito-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Brito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Brito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
+  
+  ##
 
-<br>
-<br>
+<div> 
+ <a href="https://discord.gg/britojcs#7375" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/britojcs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Além de bater no teclado, gosto de participar de todos os processos envolvidos no desenvolvimento de software, desde a idéia e modelagem, até o desenvolvimento e entrega.
-
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=britojcs.visitor-badge)](https://github.com/britojcs)
-[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/britojcs)](https://gist.github.com/britojcs)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/britojcs)](https://github.com/britojcs)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britojcs/)](https://www.linkedin.com/in/britojcs/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britojcs@gmail.com)](mailto:britojcs@gmail.com)
-
-<br>
-<br>
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white&color=tokyonight)
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-![Brito's Github stats](https://github-readme-stats.vercel.app/api?username=britojcs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britojcs&layout=compact&theme=tokyonight)](https://github.com/britojcs)
+</div>
